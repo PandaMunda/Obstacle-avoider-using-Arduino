@@ -25,4 +25,37 @@ Now for the coding part i will provide the code below for the functioning:
 
 
 you can download the code using the given link:
-[# Obstacle-avoider-using-Arduino.txt](https://github.com/PandaMunda/Obstacle-avoider-using-Arduino/files/11302143/Obstacle-avoider-using-Arduino.txt)
+[Obstacle avoider.docx](https://github.com/PandaMunda/Obstacle-avoider-using-Arduino/files/11304299/Obstacle.avoider.docx)
+
+
+Now carefully place all the components on the chassis and assemble it carefully.
+
+Congratulations you have built your own obstacle avoider bot using arduino uno.
+
+You can get all the material for the above using the following links:
+
+2 x Dc Motor --> https://a.co/d/hThEPPq
+
+1 x L298 Motor Driver --> https://a.co/d/6bdZdHH
+
+1 x Arduino Uno --> https://a.co/d/2X68hMl
+
+1 x 12v rechargable battery --> https://a.co/d/3i5x2lS
+
+1 x HC-SRO4 Ultrasonic Sensor --> https://a.co/d/3Gg9r8x
+
+As per need x Jumper wires --> https://a.co/d/9OpCN2D
+
+If you have any complications with the same you can try asking it in the queries section i will be there to help asap.
+
+The final product will work something like this:
+
+
+
+
+
+https://user-images.githubusercontent.com/128840537/233857693-1421a855-1209-450f-850b-9634cfb290d8.mp4
+
+For more projects using arduino refer to my repositories.
+
+
