@@ -25,7 +25,8 @@ Now for the coding part i will provide the code below for the functioning:
 
 
 you can download the code using the given link:
-[Obstacle avoider.docx](https://github.com/PandaMunda/Obstacle-avoider-using-Arduino/files/11304299/Obstacle.avoider.docx)
+[Obstacle Avoider.docx](https://github.com/PandaMunda/Obstacle-avoider-using-Arduino/files/11313238/Obstacle.Avoider.docx)
+
 
 
 Now carefully place all the components on the chassis and assemble it carefully.
@@ -33,6 +34,8 @@ Now carefully place all the components on the chassis and assemble it carefully.
 Congratulations you have built your own obstacle avoider bot using arduino uno.
 
 You can get all the material for the above using the following links:
+
+1 x Chassis --> https://a.co/d/2pmxRiq
 
 2 x Dc Motor --> https://a.co/d/hThEPPq
 
@@ -46,16 +49,19 @@ You can get all the material for the above using the following links:
 
 As per need x Jumper wires --> https://a.co/d/9OpCN2D
 
+The final product will look something like this:
+
+<img src="https://user-images.githubusercontent.com/128840537/234077353-248c4954-5da0-4b68-906f-58a6938e205b.jpg" width="400" height="600" />
+
+After attatching the battery mine was working completely fine as you can see in the video:
+
+
+
+https://user-images.githubusercontent.com/128840537/234084475-6665686e-6b0c-45eb-b78d-de9de1739b8e.mp4
+
+
 If you have any complications with the same you can try asking it in the queries section i will be there to help asap.
 
-The final product will work something like this:
-
-
-
-
-
-https://user-images.githubusercontent.com/128840537/233857693-1421a855-1209-450f-850b-9634cfb290d8.mp4
-
-For more projects using arduino refer to my repositories.
+For more projects using arduino please refer my other repositories.
 
 
